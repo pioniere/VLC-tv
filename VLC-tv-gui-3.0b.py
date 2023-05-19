@@ -1,3 +1,6 @@
+# vlctv-gui-3.0b.py
+# May 19, 2023
+
 import PySimpleGUI as sg
 import requests
 import vlc
